@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(202, 222, 243);
+    margin: 30px;
+}
+
+h1 {
+    color: rgb(10, 59, 133); 
+    text-align: center;
+}
+
+p {
+    text-align: justify; 
+    font-size: 22px;
+}
+
+.lista{
+    font-size: 22px;
+}
+
+.lista li{
+    padding: 5px;
+}
+
+div{
+    text-align: center;
+}
+
+.hobby{
+    width: 512px;
+}
+
+.tabela{
+    font-family: Arial;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(184, 214, 246);
+    width: fit-content;
+}
+
+th{
+    border: 2px solid black;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
+
+.colunapaís{
+    padding: 15px;
+}
+
+.país{
+    padding: 50px;
+}
+
+.imagemdopaís{
+    padding: 15px;
+    width:  350px;
+    border-radius: 3cap;
+}
+
+.link:hover{
+    color: green;
+}
+
+#botao{
+    width: 200px;
+    font-size: 18px;
+    font-family: Arial;
+    padding: 10px;
+}
+
+#mensagem{
+    display: none;
+    font-size: 22px;
+    text-align: left;
+    padding: 10px;
+}
